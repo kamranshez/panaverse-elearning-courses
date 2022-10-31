@@ -30,6 +30,8 @@ Tehnologies: JavaScript, TypeScript, and Node.js
 
 [Learn TypeScript Repo](https://github.com/panacloud-modern-global-apps/learn-typescript)
 
+[Learn TypeScript Presentation](https://docs.google.com/presentation/d/1D_5X8P6ynot-8E9gHBLRmigyCGlUdqjTokVyEk9sbZg/edit?usp=sharing)
+
 [Getting Started Exercises with JavaScript and Node.js](https://github.com/panacloud-modern-global-apps/typescript-node-projects/blob/main/getting-started-exercises.md)
 
 [TypeScript Node.js Projects](https://github.com/panacloud-modern-global-apps/typescript-node-projects)
