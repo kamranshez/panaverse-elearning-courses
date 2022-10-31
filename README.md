@@ -1,4 +1,4 @@
-# Learn in Baby Step eLearning Series
+# Learn in Baby Steps Series
 
 Panaverse/Panacloud DAO will create a series a [Udemy](https://www.udemy.com/) Courses covering cutting-edge technolgies:
 
