@@ -70,7 +70,7 @@ Technolgies: TypeScript, Three.js, React-Three-Fiber, WebXR, WebGPU, WebRTC, 100
 [Learning Presentation](https://docs.google.com/presentation/d/1ADk87hQ0Etr2PfmN9XH7TQ0CHl6XSP_7JWNUbzPdDNc/edit?usp=sharing)
 
 
-## Learning Designing and Prototyping Web 3.0 Dapps using Figma in Baby Steps
+## Learn Designing and Prototyping Web 3.0 Dapps using Figma in Baby Steps
 
 [Designing and Prototyping Interfaces with Figma](https://www.packtpub.com/product/designing-and-prototyping-interfaces-with-figma/9781800564183)
 
