@@ -12,6 +12,8 @@ The main objective of Panaversity is to make Pakistani developers and their skil
 
 [How to Create an Online Course: The Official Udemy Course](https://www.udemy.com/course/official-udemy-create-course/)
 
+[Teaching on Udemy: FAQ](https://support.udemy.com/hc/en-us/articles/360003469994-Teaching-on-Udemy-FAQ)
+
 
 ## Learn to Use Web 3.0 in Baby Steps
 
