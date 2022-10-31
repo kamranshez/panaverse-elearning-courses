@@ -60,7 +60,7 @@ Note: In Web 3.0 we will be using Web 2.0 technologies like Next.js 13, etc.
 Quizzes: Fundamentals of Next.js Quiz, TailwindCSS and Chakra UI with Next.js Quiz, Headless CMS with Next.js, API Development with Next.js, Smart Contract Development with Solidity, and Dapp Development with Next.js and Ethers.
 
 
-## Learn to Build Serverless Cloud and Edge APIs in Baby Steps
+## Learn to Build Serverless Cloud and [Edge](https://www.youtube.com/watch?v=HlXLVb3QCvQ) APIs in Baby Steps
 
 Technologies: TypeScript, AWS CDK, Postman, GraphQL, AWS Lambda, AWS AppSync, Graph Databases, AWS Neptune, Prisma, Relational Databases, AWS Aurora Serverless/PostgreSQL, MongoDB Atlas, and Panacloud CLI
 
