@@ -51,6 +51,10 @@ Note: In Web 3.0 we will be using Web 2.0 technologies like Next.js 13, etc.
 
 [TailwindCSS and Chakra UI Next.js Projects](https://github.com/panacloud-modern-global-apps/chakra-nextjs-projects)
 
+[Full Stack Dapp Learning Presentation](https://docs.google.com/presentation/d/1pWmS4kWu-m0sAbJjFRG-DujeMvbgKF7w3941edB6uf8/edit?usp=sharing)
+
+[Full Stack Dapp Learning Repo](https://github.com/panacloud-modern-global-apps/fullstack-dapps)
+
 Quizzes: Fundamentals of Next.js Quiz, TailwindCSS and Chakra UI with Next.js Quiz, Headless CMS with Next.js, API Development with Next.js, Smart Contract Development with Solidity, and Dapp Development with Next.js and Ethers.
 
 
