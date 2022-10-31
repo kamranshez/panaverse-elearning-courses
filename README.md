@@ -83,6 +83,11 @@ Technolgies: TypeScript, Three.js, React-Three-Fiber, WebXR, WebGPU, WebRTC, 100
 
 [Design Patterns in TypeScript](https://refactoring.guru/design-patterns/typescript)
 
+## Learn Full Stack Serverless AI Web Apps
+
+
+## Learn Smart Home, Office and Factory Develop
+
 
 
 
