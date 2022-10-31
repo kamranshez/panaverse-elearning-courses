@@ -58,6 +58,10 @@ Quizzes: Fundamentals of Next.js Quiz, TailwindCSS and Chakra UI with Next.js Qu
 
 Technologies: TypeScript, AWS CDK, Postman, GraphQL, AWS Lambda, AWS AppSync, Graph Databases, AWS Neptune, Prisma, Relational Databases, AWS Aurora Serverless/PostgreSQL, MongoDB Atlas, and Panacloud CLI
 
+[Learning Presentation](https://docs.google.com/presentation/d/1kcfJLIWlmzTd0Jy3sYmxrLLTQNiNYXfl7lb6CKPHjXU/edit?usp=sharing)
+
+[Learning Repo](https://github.com/Panaverse-API/learn-serverless-api-dev/blob/main/README.md)
+
 
 ## Learn to Build Virtual and Augumented Metaverses in Baby Steps
 
