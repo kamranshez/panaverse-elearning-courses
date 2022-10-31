@@ -39,9 +39,9 @@ Quizzes: TypeScript Proficiency Quiz, Fundamentals of TypeScript, and Advanced T
 
 ## Learn to Build Full Stack Web 2.0 and Web 3.0 Web Apps and Dapps in Baby Steps
 
-Web 2.0 Technologies: TypeScript, Next.js 13, Chakra UI, Tailwind CSS, Contentful, Strapi, tRPC, Prisma, and Panacloud/Panaverse CLI.
+Web 2.0 Technologies: TypeScript, Next.js 13, Chakra UI, Tailwind CSS, Contentful, Strapi, tRPC, Prisma, Relational, Graph, and Document Databases
 
-Web 3.0 Technologies: Hardhat, Solidity, Ethers, OpenZepllin, Alchemy, The Graph, and Chainlink.
+Web 3.0 Technologies: Hardhat, Solidity, Ethers, OpenZepllin, Alchemy, The Graph, and Chainlink (includes Web 2 Technologies).
 
 Note: In Web 3.0 we will be using Web 2.0 technologies like Next.js 13, etc. 
 
@@ -58,7 +58,7 @@ Note: In Web 3.0 we will be using Web 2.0 technologies like Next.js 13, etc.
 Quizzes: Fundamentals of Next.js Quiz, TailwindCSS and Chakra UI with Next.js Quiz, Headless CMS with Next.js, API Development with Next.js, Smart Contract Development with Solidity, and Dapp Development with Next.js and Ethers.
 
 
-## Learn to Build Serverless APIs in Baby Steps
+## Learn to Build Serverless Cloud and Edge APIs in Baby Steps
 
 Technologies: TypeScript, AWS CDK, Postman, GraphQL, AWS Lambda, AWS AppSync, Graph Databases, AWS Neptune, Prisma, Relational Databases, AWS Aurora Serverless/PostgreSQL, MongoDB Atlas, and Panacloud CLI
 
@@ -85,11 +85,16 @@ Technolgies: TypeScript, Three.js, React-Three-Fiber, WebXR, WebGPU, WebRTC, 100
 
 ## Learn to Build Full Stack Serverless AI Apps in Baby Steps
 
+Technologies: Python, TensorFlow, SageMaker, [SageMaker Serverless Inference](https://docs.aws.amazon.com/sagemaker/latest/dg/serverless-endpoints.html), [Neptune Serverless Graph Database](https://techcrunch.com/2022/10/27/aws-makes-neptune-its-graph-database-service-serverless/), and Neptune ML (https://docs.amazonaws.cn/en_us/neptune/latest/userguide/machine-learning-overview.html), etc.
 
-## Learn to Build Smart Home, Office and Factory Development
+
+## Learn [Ambient Computing](https://www.zdnet.com/article/what-is-ambient-computing-everything-you-need-to-know-about-the-rise-of-invisible-tech/): Build Smart Homes, Offices and Factories
+
+Technologies: C/C++, Rust, Matter Protocol, Matter with Alexa, and other [Amazon Devices](https://www.zdnet.com/home-and-office/smart-home/matter-hits-close-to-home-amazon-preparing-to-add-it-to-most-of-its-devices/)
 
 
-## Learn to Build Cloud Native APIs and Apps in Baby Steps
+## Learn to Build Full Stack Cloud Native Apps and APIs in Baby Steps
+
 
 
 
