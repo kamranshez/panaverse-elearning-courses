@@ -90,7 +90,7 @@ Technolgies: TypeScript, Three.js, React-Three-Fiber, WebXR, WebGPU, WebRTC, 100
 Technologies: Python, TensorFlow, SageMaker, [SageMaker Serverless Inference](https://docs.aws.amazon.com/sagemaker/latest/dg/serverless-endpoints.html), [Neptune Serverless Graph Database](https://techcrunch.com/2022/10/27/aws-makes-neptune-its-graph-database-service-serverless/), and Neptune ML (https://docs.amazonaws.cn/en_us/neptune/latest/userguide/machine-learning-overview.html), etc.
 
 
-## Learn [Ambient Computing](https://www.zdnet.com/article/what-is-ambient-computing-everything-you-need-to-know-about-the-rise-of-invisible-tech/): Build Smart Homes, Offices and Factories
+## Learn [Ambient Computing](https://www.zdnet.com/article/what-is-ambient-computing-everything-you-need-to-know-about-the-rise-of-invisible-tech/): Build Smart Homes, Offices, Factories and Cities
 
 Technologies: C/C++, Rust, Matter Protocol, Matter with Alexa, and other [Amazon Devices](https://www.zdnet.com/home-and-office/smart-home/matter-hits-close-to-home-amazon-preparing-to-add-it-to-most-of-its-devices/)
 
