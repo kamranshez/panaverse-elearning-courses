@@ -1,8 +1,6 @@
-# Learn in Baby Step Series
+# Learn in Baby Step eLearning Series
 
-Panaverse DAO will create a series a [Udemy](https://www.udemy.com/) Courses:
-
-[How to Create an Online Course: The Official Udemy Course](https://www.udemy.com/course/official-udemy-create-course/)
+Panaverse/Panacloud DAO will create a series a [Udemy](https://www.udemy.com/) Courses covering cutting-edge technolgies:
 
 Each course will be release by an [Ownership Economy](https://variant.fund/articles/the-ownership-economy-2022/) DAO created by Panacloud/Panaverse DAO.
 
@@ -11,6 +9,8 @@ As we will also be creating Full Stack Web Templates, Serverless APIs, and provi
 The students of these programs will become a part of Panacloud/Panaverse DAO and will also create Full Stack Templates, Serverless APIs, and provide devlopment services. 
 
 The main objective of Panaversity is to make Pakistani developers and their skills famous accross global and to generate sustained revenue for the developers. 
+
+[How to Create an Online Course: The Official Udemy Course](https://www.udemy.com/course/official-udemy-create-course/)
 
 
 ## Learn to Use Web 3.0 in Baby Steps
@@ -39,7 +39,7 @@ Quizzes: TypeScript Proficiency Quiz, Fundamentals of TypeScript, and Advanced T
 
 ## Learn to Build Full Stack Web 2.0 and Web 3.0 Web Apps and Dapps in Baby Steps
 
-Web 2.0 Technologies: Next.js 13, Chakra UI, Tailwind CSS, Contentful, Strapi, Prisma, and Panacloud/Panaverse CLI.
+Web 2.0 Technologies: TypeScript, Next.js 13, Chakra UI, Tailwind CSS, Contentful, Strapi, tRPC, Prisma, and Panacloud/Panaverse CLI.
 
 Web 3.0 Technologies: Hardhat, Solidity, Ethers, OpenZepllin, Alchemy, The Graph, and Chainlink.
 
@@ -55,6 +55,27 @@ Quizzes: Fundamentals of Next.js Quiz, TailwindCSS and Chakra UI with Next.js Qu
 
 
 ## Learn to Build Serverless APIs in Baby Steps
+
+Technologies: TypeScript, AWS CDK, Postman, GraphQL, AWS Lambda, AWS AppSync, Graph Databases, AWS Neptune, Prisma, Relational Databases, AWS Aurora Serverless/PostgreSQL, MongoDB Atlas, and Panacloud CLI
+
+
+## Learn to Build Virtual and Augumented Metaverses in Baby Steps
+
+Technolgies: TypeScript, Three.js, React-Three-Fiber, WebXR, WebGPU, WebRTC, 100ms, Yjs (CRDTs). and Webaverse
+
+[Learning Presentation](https://docs.google.com/presentation/d/1ADk87hQ0Etr2PfmN9XH7TQ0CHl6XSP_7JWNUbzPdDNc/edit?usp=sharing)
+
+
+## Learning Designing and Prototyping Web 3.0 Dapps using Figma in Baby Steps
+
+[Designing and Prototyping Interfaces with Figma](https://www.packtpub.com/product/designing-and-prototyping-interfaces-with-figma/9781800564183)
+
+
+## Learn Design Patterns in TypeSript
+
+
+
+
 
 
 
