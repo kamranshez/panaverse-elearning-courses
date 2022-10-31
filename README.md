@@ -1,8 +1,8 @@
 # Learn in Baby Steps Series
 
-Panaverse/Panacloud DAO will create a series a [Udemy](https://www.udemy.com/) Courses covering cutting-edge technolgies:
+Panaverse/Panacloud DAO will create a series of eLearning Courses on [Udemy](https://www.udemy.com/) (Initially) covering cutting-edge technolgies:
 
-Each course will be release by an [Ownership Economy](https://variant.fund/articles/the-ownership-economy-2022/) DAO created by Panacloud/Panaverse DAO.
+Each course will be release by an [Ownership Economy](https://variant.fund/articles/the-ownership-economy-2022/) DAO created by Panacloud/Panaverse DAO. Panaverse DAO will be holding 20% tokens in Ownership Economy DAOs.
 
 As we will also be creating Full Stack Web Templates, Serverless APIs, and providing Developemnt Services we will be cross marketing all these offerings. 
 
@@ -71,7 +71,9 @@ Technolgies: TypeScript, Three.js, React-Three-Fiber, WebXR, WebGPU, WebRTC, 100
 [Designing and Prototyping Interfaces with Figma](https://www.packtpub.com/product/designing-and-prototyping-interfaces-with-figma/9781800564183)
 
 
-## Learn Design Patterns in TypeSript
+## Learn Design Patterns in TypeSript in Baby Steps
+
+[Design Patterns in TypeScript](https://refactoring.guru/design-patterns/typescript)
 
 
 
